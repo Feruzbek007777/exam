@@ -1,0 +1,2 @@
+# Imtixon-
+Botga start bosilganda admin qoshgan kitoblar chiqadi ( buttons shaklida ). Foydalanuvchi xohlagan kitobini bosadi va osha kitob yoki darslik haqida malumotlar chiqadi . Agar start bosga odam admin bolsa unga 3 ta button chiqadi kitob qoshish kitobga malumot qoshish va kitoblar royxatinii korish kabi ! Batafsil botga start bosganda bilib olasiz !
